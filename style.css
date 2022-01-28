@@ -1,0 +1,21 @@
+.line
+{
+    height: 6;
+    width:70px;
+    color:black;
+    margin: 8px auto;
+}
+body
+{
+    background:linear-gradient(#34ebc3,#3480eb);
+}
+img
+{
+    border-radius: 50%;
+    height:30%;
+    margin-right: 50%;
+}
+#align
+{
+    text-align: center;
+}
